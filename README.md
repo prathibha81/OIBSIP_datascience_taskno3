@@ -226,7 +226,9 @@ pip install -r requirements.txt
 
 4. Run the notebook or prediction script
 
-
+```
+jupyter notebook car_price_prediction.ipynb
+```
 
 ##  Future Improvements
 
